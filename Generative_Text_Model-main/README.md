@@ -1,4 +1,44 @@
 
+#GENERATIVE TEXT MODEL
+
+A generative text model project involves developing an AI system capable of producing human-like text for various applications
+
+
+## Dependencies
+
+Install the following modules
+
+```bash
+pip install numpy
+pip install tensorflow
+  
+```
+    
+## Features
+
+- Understanding and Generating Human-Like Text
+- Creativity and Style Adaptation
+- Easy to use
+- Cross platform
+
+
+## Badges
+
+
+![Conda Platform](https://img.shields.io/conda/p/conda-forge/python)
+
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tensorflow)
+
+
+
+
+
+
+
+
+
+
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyuth-kumar-698105325)
