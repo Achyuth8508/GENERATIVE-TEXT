@@ -1,5 +1,5 @@
 
-#GENERATIVE TEXT MODEL
+# GENERATIVE TEXT MODEL
 
 A generative text model project involves developing an AI system capable of producing human-like text for various applications
 
