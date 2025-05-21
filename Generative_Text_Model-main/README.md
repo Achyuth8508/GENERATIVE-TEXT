@@ -1,38 +1,7 @@
 # GENERATIVE-TEXT-MODEL
-*COMPANY*:CODTECH IT SOLUTIONS
+## 📫 Let's Connect
 
-*NAME*: ACHYUTH KUMAR 
-
-*INTERN ID*:CODF29
-
-*DOMAIN*:ARTIFICIAL INTELLIGENCE MARKUP LANGUAGE
-
-*DURATION*:4 WEEKS
-
-*MENTOR*:NEELA SANTOSH
-
-*Descrpition*:
-This project implements a Generative Text Model using natural language processing (NLP) techniques. The model is capable of generating human-like text based on an input prompt. It uses deep learning methods—such as Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), or Transformer-based architectures—to learn patterns in language and produce coherent, contextually relevant text.
-
-🔍 Features
-Generate creative and context-aware text
-
-Train on custom datasets
-
-Configurable model architecture and training parameters
-
-Supports inference from user-provided prompts
-
-Can be fine-tuned for specific domains or writing styles
-
-🚀 Use Cases
-Chatbots and virtual assistants
-
-Story or poetry generation
-
-Content suggestions and completions
-
-Educational and creative writing tools
-
-*Output*:
-<img width="639" alt="Image" src="https://github.com/user-attachments/assets/c0b247d0-8c08-4b0c-a1ca-1231f9465afd" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyuth-kumar-698105325)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Achyuth88344725?t=aQNkQOXmCNs4581HVgKvzg&s=09)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:achyuthk865@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/achyuth_kumar85/)
