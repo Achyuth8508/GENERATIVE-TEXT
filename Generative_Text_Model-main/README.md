@@ -1,4 +1,4 @@
-# GENERATIVE-TEXT-MODEL
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achyuth-kumar-698105325)
